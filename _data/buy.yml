@@ -234,11 +234,11 @@
    
 ##### Brazil ####################################################      
 
- - name: Satoshi Tango
+ - name: SatoshiTango
    desc: Bitcoin platform. Supports a growing number of countries in South America and Europe. 
    url: https://www.satoshitango.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshitango.png
-   countries: br, tr, cl, co, pe, uy, ar
+   countries: br, cl, pe, ar, mx, es, pt, it
 
  - name: Mercado Bitcoin
    desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
