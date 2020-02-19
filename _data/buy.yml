@@ -270,6 +270,12 @@
    
 ##### Australia #################################################### 
  
+ - name: BTC Markets
+   desc: Australia's Bitcoin exchange. Instant AUD deposits and withdrawals. Founded in 2013.  
+   url: https://www.btcmarkets.net/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcmarkets.png
+   countries: au  
+   
  - name: CoinJar
    desc: Australian Bitcoin platform. Buy bitcoin via BPAY. 1% fee.  
    url: https://www.coinjar.com/
